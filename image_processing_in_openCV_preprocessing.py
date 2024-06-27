@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-__author__ = "Sreenivas Bhattiprolu"
-__license__ = "Feel free to copy, I appreciate if you acknowledge Python for Microscopists"
-
-# https://www.youtube.com/watch?v=-Qnb8Wv2p1c
-
-
 # Image smoothing, denoising
 # Averaging, gaussian blurring, median, bilateral filtering
 #OpenCV has a function cv2.filter2D(), which convolves whatever kernel we define with the image.
