@@ -1,20 +1,3 @@
-#!/usr/bin/env python
-__author__ = "Sreenivas Bhattiprolu"
-__license__ = "Feel free to copy, I appreciate if you acknowledge Python for Microscopists"
-
-# https://www.youtube.com/watch?v=yj40XoUqo70
-
-
-######### Using openCV #########
-
-#to install open CV : pip install opencv-python
-#to import the package you need to use import cv2
-
-#openCV is a library of programming functions mainly aimed at computer vision.
-#Very good for images and videos, especially real time videos.
-#It is used extensively for facial recognition, object recognition, motion tracking,
-#optical character recognition, segmentation, and even for artificial neural netwroks. 
-
 #Useful preprocessing steps for image processing, for example segmentation. 
 #1. SPlit & Merge channels
 #2. Scaling / resizing
