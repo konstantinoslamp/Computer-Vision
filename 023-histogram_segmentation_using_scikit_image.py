@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-__author__ = "Sreenivas Bhattiprolu"
-__license__ = "Feel free to copy, I appreciate if you acknowledge Python for Microscopists"
-
-# https://www.youtube.com/watch?v=kIVk0IhDMwY
-
 # Histogram based segmentation
 
 from skimage import io
