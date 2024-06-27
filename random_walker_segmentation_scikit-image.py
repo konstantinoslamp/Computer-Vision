@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-__author__ = "Sreenivas Bhattiprolu"
-__license__ = "Feel free to copy, I appreciate if you acknowledge Python for Microscopists"
-
-# https://www.youtube.com/watch?v=6P8YhJa2V6o
-
-"""
 Using Random walker to generate lables and then segment and finally cleanup using closing operation.
 """
 
